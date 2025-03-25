@@ -1,0 +1,16 @@
+ 
+# Qt build files
+build*/
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.so
+*.dylib
+*.qrc
+*.qmlc
+*.moc
